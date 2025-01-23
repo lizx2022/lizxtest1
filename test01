@@ -1,0 +1,5 @@
+def test01():
+  print (1  )
+
+a=test01
+print (a)
