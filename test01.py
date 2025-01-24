@@ -4,7 +4,7 @@ def test01():
     print('test03-vs')
 
     print ('test04-vs')
-    print(test -vs 5)
+    print('test -vs 5')
 
 
 if __name__ == '__main__':
