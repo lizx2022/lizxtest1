@@ -6,6 +6,7 @@ def test01():
     print ('test04-vs')
     print('test -vs 5')
     print('test20250101')
+    print("test202501002")
 
 
 if __name__ == '__main__':
